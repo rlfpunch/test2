@@ -34,7 +34,7 @@
                     <version>2.6</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>ROOT</warName>
+                        <warName>app</warName>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
@@ -44,6 +44,6 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-        <finalName>ROOT</finalName>
+        <finalName>app</finalName>
     </build>
 </project>
